@@ -1,0 +1,404 @@
+{
+  "Amazonas": {
+    "Leticia": {
+      "distancia": "N/A (Acceso aéreo/fluvial)",
+      "tiempo": "N/A",
+      "clima": "🌧️ Cálido húmedo (28°C)",
+      "estado_via": "Sin vía terrestre desde Medellín",
+      "tipo_terreno": "Selva / Fluvial",
+      "rutas": ["Vuelo Medellín -> Bogotá -> Leticia"],
+      "planes": ["Parque Nacional Amacayacu", "Isla de los Monos", "Tres Fronteras"]
+    },
+    "Puerto Nariño": {
+      "distancia": "N/A",
+      "tiempo": "2 horas en lancha desde Leticia",
+      "clima": "🌧️ Cálido húmedo (28°C)",
+      "estado_via": "Fluvial",
+      "tipo_terreno": "Río / Peatonal",
+      "rutas": ["Lancha rápida desde Leticia"],
+      "planes": ["Lago Tarapoto", "Avistamiento de delfines rosados"]
+    }
+  },
+  "Antioquia": {
+    "Guatapé": {
+      "distancia": "82 km",
+      "tiempo": "2 a 2.5 horas",
+      "clima": "⛅ Templado (20°C)",
+      "estado_via": "100% Pavimentado",
+      "tipo_terreno": "Carretera revirada de alto flujo",
+      "rutas": ["Medellín -> Autopista Medellín-Bogotá -> Marinilla -> El Peñol -> Guatapé"],
+      "planes": ["Subir la Piedra del Peñol", "Recorrer la Calle de los Zócalos", "Paseo en barco"]
+    },
+    "Jardín": {
+      "distancia": "130 km",
+      "tiempo": "3 horas",
+      "clima": "⛅ Templado (19°C)",
+      "estado_via": "Pavimentado en buen estado",
+      "tipo_terreno": "Autopista y curvas de montaña",
+      "rutas": ["Medellín -> Caldas -> Amagá -> Bolombolo -> Andes -> Jardín"],
+      "planes": ["Tomar café en la Plaza Principal", "Visitar la Cueva del Esplendor", "La Garrucha"]
+    },
+    "Jericó": {
+      "distancia": "114 km",
+      "tiempo": "3 horas",
+      "clima": "⛅ Templado (18°C)",
+      "estado_via": "Pavimento con tramos en reparación",
+      "tipo_terreno": "Montañoso / Curvas suaves",
+      "rutas": ["Medellín -> Caldas -> Amagá -> Puente Iglesias -> Jericó"],
+      "planes": ["Centro Histórico", "Mirador del Salvador", "Comprar carrieles tradicionales"]
+    },
+    "Santa Fe de Antioquia": {
+      "distancia": "56 km",
+      "tiempo": "1.5 horas",
+      "clima": "🔥 Cálido (28°C)",
+      "estado_via": "100% Pavimentado (Túnel del Toyo / Túnel de Occidente)",
+      "tipo_terreno": "Autopista rápida y curvas suaves",
+      "rutas": ["Medellín -> Túnel de Occidente -> San Jerónimo -> Santa Fe de Antioquia"],
+      "planes": ["Puente de Occidente", "Parque Principal y arquitectura colonial", "Parques acuáticos"]
+    }
+  },
+  "Arauca": {
+    "Arauca": {
+      "distancia": "730 km",
+      "tiempo": "15 horas",
+      "clima": "🔥 Cálido (30°C)",
+      "estado_via": "Pavimentado / Tramos en afirmado",
+      "tipo_terreno": "Llano / Carretera recta",
+      "rutas": ["Medellín -> Tunja -> Yopal -> Tame -> Arauca"],
+      "planes": ["Malecón del Río Arauca", "Cultura llanera y gastronomía"]
+    }
+  },
+  "Atlántico": {
+    "Barranquilla": {
+      "distancia": "700 km",
+      "tiempo": "13 horas",
+      "clima": "🔥 Cálido / Húmedo (31°C)",
+      "estado_via": "Pavimentado (Ruta del Sol / Troncal del Caribe)",
+      "tipo_terreno": "Plano / Autopista de bajo desnivel",
+      "rutas": ["Medellín -> Caucasia -> Montería -> Sincelejo -> Barranquilla"],
+      "planes": ["Gran Malecón del Río", "Ventana al Mundo", "Bocas de Ceniza"]
+    },
+    "Puerto Colombia": {
+      "distancia": "715 km",
+      "tiempo": "13.5 horas",
+      "clima": "🔥 Cálido (30°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Carretera costera",
+      "rutas": ["Barranquilla -> Vía al Mar -> Puerto Colombia"],
+      "planes": ["Muelle histórico de Puerto Colombia", "Playa de Pradomar"]
+    }
+  },
+  "Boyacá": {
+    "Villa de Leyva": {
+      "distancia": "380 km",
+      "tiempo": "7 - 8 horas",
+      "clima": "☀️ Templado / Seco (21°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Montaña / Curva moderada",
+      "rutas": ["Medellín -> Puerto Boyacá -> Chiquinquirá -> Saboyá -> Villa de Leyva"],
+      "planes": ["Plaza Mayor", "Pozos Azules", "Casa de Terracota"]
+    },
+    "Paipa": {
+      "distancia": "410 km",
+      "tiempo": "8 horas",
+      "clima": "🥶 Frío (15°C)",
+      "estado_via": "Pavimentado (Doble calzada desde Tunja)",
+      "tipo_terreno": "Altiplano cundiboyacense",
+      "rutas": ["Medellín -> Puerto Boyacá -> Tunja -> Paipa"],
+      "planes": ["Termales de Paipa", "Lago Sochagota", "Pantanod Vargas"]
+    }
+  },
+  "Caldas": {
+    "Manizales": {
+      "distancia": "195 km",
+      "tiempo": "4.5 horas",
+      "clima": "🥶 Frío (16°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Montaña / Alto de Minas / Curvas técnicas",
+      "rutas": ["Medellín -> Caldas -> Santa Bárbara -> La Pintada -> Irra -> Manizales"],
+      "planes": ["Catedral Basílica y Recorrido de Polígono", "Termales del Otoño", "Nevado del Ruiz"]
+    },
+    "Salamina": {
+      "distancia": "200 km",
+      "tiempo": "5 horas",
+      "clima": "⛅ Templado (18°C)",
+      "estado_via": "Pavimentado con tramos angostos",
+      "tipo_terreno": "Montaña revirada",
+      "rutas": ["Medellín -> La Pintada -> Aguadas -> Pácora -> Salamina"],
+      "planes": ["Bosque de Palmas de Cera en San Félix", "Arquitectura colonial", "Probar huevos al vapor"]
+    }
+  },
+  "Caquetá": {
+    "Florencia": {
+      "distancia": "680 km",
+      "tiempo": "14 horas",
+      "clima": "🔥 Cálido húmedo (27°C)",
+      "estado_via": "Pavimentado con tramos de cordillera",
+      "tipo_terreno": "Piedemonte amazónico",
+      "rutas": ["Medellín -> Ibagué -> Neiva -> Altamira -> Florencia"],
+      "planes": ["Catedral de Nuestra Señora de Lourdes", "Ecoturismo y cascadas"]
+    }
+  },
+  "Casanare": {
+    "Yopal": {
+      "distancia": "540 km",
+      "tiempo": "11 horas",
+      "clima": "🔥 Cálido (30°C)",
+      "estado_via": "Pavimentado / Tramos en montaña",
+      "tipo_terreno": "Piedemonte y llano",
+      "rutas": ["Medellín -> Puerto Boyacá -> Sogamoso -> Vía del Cusiana -> Yopal"],
+      "planes": ["Mirador Virgen de Manare", "Safari llanero", "Río Cravo Sur"]
+    }
+  },
+  "Cauca": {
+    "Popayán": {
+      "distancia": "500 km",
+      "tiempo": "9.5 horas",
+      "clima": "⛅ Templado (19°C)",
+      "estado_via": "Pavimentado (Panamericana)",
+      "tipo_terreno": "Valle y montaña suave",
+      "rutas": ["Medellín -> Pereira -> Cali -> Jamundí -> Popayán"],
+      "planes": ["Centro Histórico (La Ciudad Blanca)", "Morro de Tulcán", "Termales de Coconuco"]
+    }
+  },
+  "Cesar": {
+    "Valledupar": {
+      "distancia": "630 km",
+      "tiempo": "11 horas",
+      "clima": "🔥 Cálido (32°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Plano / Valle de la Sierra Nevada",
+      "rutas": ["Medellín -> Llanos de Cuivá -> Yarumal -> Caucasia -> Aguachica -> Valledupar"],
+      "planes": ["Balneario Hurtado (Río Guatapurí)", "Plaza Alfonso López", "Glorieta de los Juglares"]
+    }
+  },
+  "Chocó": {
+    "Quibdó": {
+      "distancia": "230 km",
+      "tiempo": "6 - 8 horas",
+      "clima": "🌧️ Cálido húmedo (28°C)",
+      "estado_via": "Pavimentado parcial / Tramos destapados en cordillera",
+      "tipo_terreno": "Selva / Curvas cerradas y trocha",
+      "rutas": ["Medellín -> Bolombolo -> Ciudad Bolívar -> Yuto -> Quibdó"],
+      "planes": ["Malecón sobre el Río Atrato", "Catedral San Francisco de Asís"]
+    },
+    "Capurganá": {
+      "distancia": "N/A (Mixta)",
+      "tiempo": "8h moto + 1.5h lancha",
+      "clima": "🔥 Cálido tropical (29°C)",
+      "estado_via": "Pavimento hasta Turbo/Necoclí, luego marítimo",
+      "tipo_terreno": "Carretera a Urabá + Lancha",
+      "rutas": ["Medellín -> Santa Fe de Antioquia -> Chigorodó -> Necoclí -> Lancha a Capurganá"],
+      "planes": ["Playa Soledad", "Bahía Aguacate", "Caminata a Sapzurro"]
+    }
+  },
+  "Cundinamarca": {
+    "Girardot": {
+      "distancia": "390 km",
+      "tiempo": "7.5 horas",
+      "clima": "🔥 Cálido (32°C)",
+      "estado_via": "100% Pavimentado",
+      "tipo_terreno": "Valle del Río Magdalena",
+      "rutas": ["Medellín -> Doradal -> Honda -> Cambao -> Girardot"],
+      "planes": ["Paseo en lancha por el Río Magdalena", "Parques acuáticos"]
+    },
+    "Guatavita": {
+      "distancia": "420 km",
+      "tiempo": "8 horas",
+      "clima": "🥶 Frío (14°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Autopista y carretera secundaria",
+      "rutas": ["Medellín -> Puerto Boyacá -> Tunja -> Chocontá -> Guatavita"],
+      "planes": ["Laguna Sagrada de Guatavita", "Pueblo blanco", "Embalse del Tominé"]
+    }
+  },
+  "Huila": {
+    "San Agustín": {
+      "distancia": "610 km",
+      "tiempo": "12 horas",
+      "clima": "⛅ Templado (18°C)",
+      "estado_via": "Pavimentado en su mayoría",
+      "tipo_terreno": "Montañoso / Valles del sur",
+      "rutas": ["Medellín -> Ibagué -> Neiva -> Garzón -> Pitalito -> San Agustín"],
+      "planes": ["Parque Arqueológico de San Agustín", "Estrecho del Magdalena", "Cascada el Salto del Mortiño"]
+    },
+    "Tatacoa (Villavieja)": {
+      "distancia": "480 km",
+      "tiempo": "9.5 horas",
+      "clima": "🔥 Muy Cálido / Desértico (34°C)",
+      "estado_via": "Pavimentado hasta Villavieja, destapado suave en el desierto",
+      "tipo_terreno": "Valle / Desierto",
+      "rutas": ["Medellín -> Honda -> Cambao -> Neiva -> Villavieja -> Desierto"],
+      "planes": ["Observación astronómica", "Caminata por el Cuzco y Los Hoyos", "Piscina mineralizada"]
+    }
+  },
+  "La Guajira": {
+    "Riohacha": {
+      "distancia": "790 km",
+      "tiempo": "14 horas",
+      "clima": "🔥 Cálido / Seco (32°C)",
+      "estado_via": "Pavimentado (Troncal del Caribe)",
+      "tipo_terreno": "Plano / Costero",
+      "rutas": ["Medellín -> Caucasia -> Aguachica -> Bosconia -> Santa Marta -> Riohacha"],
+      "planes": ["Paseo Marino de Riohacha", "Comprar artesanías Wayúu", "Santuario de Flamencos"]
+    },
+    "Cabo de la Vela": {
+      "distancia": "930 km",
+      "tiempo": "18 horas",
+      "clima": "🔥 Muy Cálido / Árido (34°C)",
+      "estado_via": "Pavimento hasta Uribia, luego trocha de arena/desierto",
+      "tipo_terreno": "Desierto / Exigente para moto",
+      "rutas": ["Riohacha -> Uribia -> Desierto del Cabo de la Vela"],
+      "planes": ["El Faro y Pilón de Azúcar", "Atardecer en la playa Ojo de Agua", "Kitesurf"]
+    }
+  },
+  "Magdalena": {
+    "Santa Marta": {
+      "distancia": "710 km",
+      "tiempo": "12.5 horas",
+      "clima": "🔥 Cálido (30°C)",
+      "estado_via": "100% Pavimentado",
+      "tipo_terreno": "Autopista de plano y costa",
+      "rutas": ["Medellín -> Yarumal -> Caucasia -> Bosconia -> Ciénaga -> Santa Marta"],
+      "planes": ["Parque Nacional Natural Tayrona", "Rodadero y Bahía", "Minca (Sierra Nevada)"]
+    }
+  },
+  "Meta": {
+    "Villavicencio": {
+      "distancia": "510 km",
+      "tiempo": "9.5 horas",
+      "clima": "🔥 Cálido (28°C)",
+      "estado_via": "Pavimentado (Doble calzada Bogotá - Villavo con túneles)",
+      "tipo_terreno": "Descenso de cordillera a llano",
+      "rutas": ["Medellín -> Honda -> Bogotá -> Vía al Llano -> Villavicencio"],
+      "planes": ["Parque Las Malocas", "Mirador de Buenavista", "Probar carne a la llanera"]
+    }
+  },
+  "Nariño": {
+    "Ipiales": {
+      "distancia": "780 km",
+      "tiempo": "16 horas",
+      "clima": "🥶 Frío (11°C)",
+      "estado_via": "Pavimentado (Panamericana)",
+      "tipo_terreno": "Alta montaña / Curvas muy cerradas",
+      "rutas": ["Medellín -> Cali -> Popayán -> Pasto -> Ipiales"],
+      "planes": ["Santuario de Las Lajas", "Frontera con Ecuador (Rumichaca)"]
+    }
+  },
+  "Norte de Santander": {
+    "Cúcuta": {
+      "distancia": "580 km",
+      "tiempo": "12 horas",
+      "clima": "🔥 Cálido (30°C)",
+      "estado_via": "Pavimentado con tramos de cordillera en reconstrucción",
+      "tipo_terreno": "Montañoso y descenso a frontera",
+      "rutas": ["Medellín -> Puerto Boyacá -> Bucaramanga -> Pamplona -> Cúcuta"],
+      "planes": ["Malecón de Cúcuta", "Pueblo de Villa del Rosario", "Compras en frontera"]
+    }
+  },
+  "Quindío": {
+    "Salento": {
+      "distancia": "240 km",
+      "tiempo": "5 horas",
+      "clima": "⛅ Templado / Fresco (17°C)",
+      "estado_via": "100% Pavimentado",
+      "tipo_terreno": "Montaña y autopista del café",
+      "rutas": ["Medellín -> La Pintada -> Chinchiná -> Pereira -> Armenia -> Salento"],
+      "planes": ["Valle del Cocora (Palmas de Cera)", "Calle Real y Mirador", "Cata de café"]
+    },
+    "Filandia": {
+      "distancia": "230 km",
+      "tiempo": "4.8 horas",
+      "clima": "⛅ Templado (18°C)",
+      "estado_via": "100% Pavimentado",
+      "tipo_terreno": "Ondulado suave",
+      "rutas": ["Medellín -> Pereira -> Desvío a Filandia"],
+      "planes": ["Mirador Colina Iluminada", "Calle del Tiempo Detenido", "Artesanías en canasto"]
+    }
+  },
+  "Risaralda": {
+    "Pereira": {
+      "distancia": "210 km",
+      "tiempo": "4.5 horas",
+      "clima": "⛅ Templado (21°C)",
+      "estado_via": "100% Pavimentado (Autopistas del Café)",
+      "tipo_terreno": "Montaña y doble calzada",
+      "rutas": ["Medellín -> La Pintada -> Irra -> Chinchiná -> Pereira"],
+      "planes": ["Viaducto César Gaviria Trujillo", "Termales de Santa Rosa de Cabal (Cerca)", "Bioparque Ukumarí"]
+    }
+  },
+  "Santander": {
+    "Barichara": {
+      "distancia": "390 km",
+      "tiempo": "8.5 horas",
+      "clima": "☀️ Templado / Cálido seco (23°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Montañoso / Cañón del Chicamocha",
+      "rutas": ["Medellín -> Puerto Boyacá -> Barbosa -> San Gil -> Barichara"],
+      "planes": ["Caminata por el Camino Real a Guane", "Arquitectura en piedra pulida", "Mirador del Cañón de Suárez"]
+    },
+    "San Gil": {
+      "distancia": "370 km",
+      "tiempo": "8 horas",
+      "clima": "🔥 Cálido (25°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Montañero",
+      "rutas": ["Medellín -> Puerto Boyacá -> Cimitarra -> Socorro -> San Gil"],
+      "planes": ["Deportes extremos (Canotaje en Río Fonce, Parapente)", "Parque El Gallineral"]
+    }
+  },
+  "Sucre": {
+    "Tolú": {
+      "distancia": "480 km",
+      "tiempo": "9 horas",
+      "clima": "🔥 Cálido (30°C)",
+      "estado_via": "Pavimentado",
+      "tipo_terreno": "Llano / Costa",
+      "rutas": ["Medellín -> Yarumal -> Caucasia -> Planeta Rica -> Sincelejo -> Tolú"],
+      "planes": ["Paseo en bicitaxi por el malecón", "Tour a las Islas del Rosario / San Bernardo"]
+    }
+  },
+  "Tolima": {
+    "Murillo": {
+      "distancia": "285 km",
+      "tiempo": "6 - 7 horas",
+      "clima": "🥶 Frío de alta montaña (12°C)",
+      "estado_via": "Pavimentado con tramos de curva alta montaña",
+      "tipo_terreno": "Páramo / Curva cerrada",
+      "rutas": [
+        "Ruta Páramo: Medellín -> Manizales -> Vía Nevados -> Murillo",
+        "Ruta Magdalena: Medellín -> Doradal -> Honda -> Líbano -> Murillo"
+      ],
+      "planes": ["Termales de la Cabaña y El Sifón", "Miradores Nevado del Ruiz", "Café de alta montaña"]
+    },
+    "Honda": {
+      "distancia": "225 km",
+      "tiempo": "4.5 horas",
+      "clima": "🔥 Cálido (33°C)",
+      "estado_via": "100% Pavimentado",
+      "tipo_terreno": "Autopista y descenso al Valle del Magdalena",
+      "rutas": ["Medellín -> Doradal -> Puerto Salgar -> Guaduas -> Honda"],
+      "planes": ["Puente Navarro", "Museo del Río Magdalena", "Calle de las Trampas"]
+    }
+  },
+  "Valle del Cauca": {
+    "Cali": {
+      "distancia": "420 km",
+      "tiempo": "8 horas",
+      "clima": "🔥 Cálido (26°C)",
+      "estado_via": "100% Pavimentado (Doble calzada en gran parte)",
+      "tipo_terreno": "Valle plano tras cruzar Risaralda",
+      "rutas": ["Medellín -> Pereira -> Cartago -> Tuluá -> Buga -> Cali"],
+      "planes": ["Cristo Rey y Mirador Belalcázar", "Barrio San Antonio", "Bailar salsa en Juanchito"]
+    },
+    "Buenaventura": {
+      "distancia": "510 km",
+      "tiempo": "10 horas",
+      "clima": "🌧️ Cálido húmedo (28°C)",
+      "estado_via": "Pavimentado (Vía al Mar / Loboguerrero)",
+      "tipo_terreno": "Descenso de cordillera a costa pacífica",
+      "rutas": ["Cali -> Loboguerrero -> Buenaventura"],
+      "planes": ["Muelle Turístico", "Lancha hacia San Cipriano (Brujitas)", "Avistamiento de ballenas en San Juan"]
+    }
+  }
+}
