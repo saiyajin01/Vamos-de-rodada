@@ -76,4 +76,9 @@ if depto_sel:
             destino = f"{muni_sel}, {depto_sel}, Colombia"
             url_gmaps = f"https://www.google.com/maps/dir/?api=1&origin={urllib.parse.quote(origen)}&destination={urllib.parse.quote(destino)}&travelmode=driving"
             
-            st.link_button(f"🗺️ Abrir GPS hacia {muni_sel}", url_gmaps)
+            st.link_button(
+    f"🗺️ Abrir GPS hacia {muni_sel}",
+    url_gmaps,
+    type="primary",
+    use_container_width=True
+)
